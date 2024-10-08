@@ -5,6 +5,9 @@
   <a href="https://t.me/bersenevskayyya">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
+<div id="badges" align = "center">
+  <img src="https://komarev.com/ghpvc/?username=bersenevskayya&style=flat-square&color=blue" alt=""/>
+</div>
 <h1 align = "center">
   Привет, меня зовут Дарина!
 </h1>
